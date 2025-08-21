@@ -10,6 +10,7 @@ A full-stack, mobile-first support ticketing application built with modern web t
   - **Tailwind CSS** - Utility-first CSS framework
   - **React Router** - Client-side routing
   - **Axios** - HTTP client for API communication
+  - **Context** - Context API for state management 
   
   ### Backend
   - **Node.js** - Runtime environment
